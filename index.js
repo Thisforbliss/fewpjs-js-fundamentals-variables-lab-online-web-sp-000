@@ -1,2 +1,2 @@
 // Code your solution in this file!
-const companyName = 'Scuber';
+const companyName = 'Scuber';https://learn.co/tracks/full-stack-web-development-v8/module-14-front-end-web-programming-in-javascript/section-2-manipulating-the-dom/js-fundamentals-variables-lab#
